@@ -19,13 +19,16 @@ export default class Page extends Component {
                         Hi, I’m Dimana Dervisheva <Emoji name="wave">👋🏻</Emoji>
                     </Heading>
                     <Heading size="l">
-                        I am a Customer Service expert based in Sofia, Bulgaria
+                        I am a Customer Service expert based in Sofia, Bulgaria{" "}
                         <Emoji name="flag">🇧🇬</Emoji>
                     </Heading>
                     <Paragraph>
                         Right now I’m raising my newborn daughter and polishing
-                        my photography skills. I’m actively looking for remote
-                        opportunities to work in the Customer Service field.
+                        my photography skills.
+                        <br />
+                        I’m actively looking for remote opportunities to work in
+                        the Customer Service field.
+                        <br />
                         Feel free to contact me if you’re in need of stepping up
                         your customer success level{" "}
                         <Emoji name="handshake">🤝</Emoji>
@@ -65,9 +68,7 @@ export default class Page extends Component {
                         </Link>{" "}
                         profile
                     </Paragraph>
-                    <Heading size="l">
-                        My latest projects (leads to a new page)
-                    </Heading>
+                    <Heading size="l">My latest projects</Heading>
                     <Heading size="m">
                         Knowledge base & Chat Bot development
                     </Heading>
