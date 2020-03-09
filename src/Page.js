@@ -117,13 +117,15 @@ export default class Page extends Component {
                                 </ListItem>
                                 <ListItem>
                                     Implementation of Bold360 ChatBot & FAQ
-                                    across all products The results 📈 30%
-                                    success rate of the Chat bot for
-                                    “Successfully completed chats” 40% increase
-                                    in agent reply times and significant
-                                    reduction of verbal questions to seniors
+                                    across all products
                                 </ListItem>
                             </List>
+                            <Paragraph>
+                                The results 📈 30% success rate of the Chat bot
+                                for “Successfully completed chats” 40% increase
+                                in agent reply times and significant reduction
+                                of verbal questions to seniors
+                            </Paragraph>
                         </Paragraph>
                     </Paragraph>
                     <Heading size="m">

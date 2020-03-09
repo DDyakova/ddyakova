@@ -1,6 +1,3 @@
-#h-main {
-}
-
 .xl {
     font-size: 47px;
     font-weight: 700;
@@ -10,12 +7,20 @@
     font-size: 36px;
 }
 
+.m {
+    font-size: 32px;
+}
+
 @media only screen and (max-width: 400px) {
     .xl {
         font-size: 42px;
     }
 
     .l {
-        font-size: 24px;
+        font-size: 32px;
+    }
+
+    .m {
+        font-size: 20px;
     }
 }
