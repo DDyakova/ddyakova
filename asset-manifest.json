@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/ddyakova/static/css/main.c8f18dfb.chunk.css",
-    "main.js": "/ddyakova/static/js/main.414eddb9.chunk.js",
-    "main.js.map": "/ddyakova/static/js/main.414eddb9.chunk.js.map",
+    "main.js": "/ddyakova/static/js/main.dc0ca8bc.chunk.js",
+    "main.js.map": "/ddyakova/static/js/main.dc0ca8bc.chunk.js.map",
     "runtime-main.js": "/ddyakova/static/js/runtime-main.d33a97b9.js",
     "runtime-main.js.map": "/ddyakova/static/js/runtime-main.d33a97b9.js.map",
     "static/js/2.50601a65.chunk.js": "/ddyakova/static/js/2.50601a65.chunk.js",
     "static/js/2.50601a65.chunk.js.map": "/ddyakova/static/js/2.50601a65.chunk.js.map",
     "index.html": "/ddyakova/index.html",
-    "precache-manifest.e0c98945c8ff5cbe2f6c2fc47917d766.js": "/ddyakova/precache-manifest.e0c98945c8ff5cbe2f6c2fc47917d766.js",
+    "precache-manifest.c283453933f4043f756d3697bc93dab0.js": "/ddyakova/precache-manifest.c283453933f4043f756d3697bc93dab0.js",
     "service-worker.js": "/ddyakova/service-worker.js",
     "static/css/main.c8f18dfb.chunk.css.map": "/ddyakova/static/css/main.c8f18dfb.chunk.css.map",
     "static/js/2.50601a65.chunk.js.LICENSE.txt": "/ddyakova/static/js/2.50601a65.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.d33a97b9.js",
     "static/js/2.50601a65.chunk.js",
     "static/css/main.c8f18dfb.chunk.css",
-    "static/js/main.414eddb9.chunk.js"
+    "static/js/main.dc0ca8bc.chunk.js"
   ]
 }
